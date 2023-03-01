@@ -1,0 +1,61 @@
+
+body{
+    background-image: url('./spiti.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.form{
+    /* border: 1px solid red; */
+    background-color: #151414;
+    width: 440px;
+    height: 530px;
+    /* */
+    margin-left: 59.3%;
+    margin-top: 10.5vh;
+    color: white;
+}
+
+
+.inputs{
+     border: 1px solid transparent; 
+    margin-top: 5%;
+    height: 430px;
+}
+.inputs p{
+    font-size: 14px;
+    font-stretch: extra-condensed;
+    padding: 0px 40px;
+}
+
+.inputs p:first-child{
+    font-size: 20px;
+}
+input{
+    height: 35px;
+    width: 90%;
+    margin-left: 4.1%;
+    margin-top: 10px;
+    color: rgb(128, 127, 127);
+    font-weight: 550;
+}
+input:focus{
+    outline: none;
+}
+
+#submit{
+    color: white;
+    background-color: rgb(224, 111, 111);
+    height: 50px;
+    border-radius: 3px;
+    font-size: 16px;
+    cursor: pointer;
+}
+u{
+    color: rgb(224, 111, 111);
+    cursor: pointer;
+}
+
+
+
